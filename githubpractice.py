@@ -5,3 +5,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
 >>> print("COP3337.0M1 Fall 2023")
 COP3337.0M1 Fall 2023
+
+print("I'm understanding how to use GitHub to keep track of changes!")
